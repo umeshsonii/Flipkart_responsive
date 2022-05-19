@@ -332,7 +332,7 @@ nav ul li {
 .banner {
     width: 98%;
     height: 280px;
-    background-image: url("/image/banner.webp");
+    background-image: url("image/banner.webp");
     background-size: cover;
     background-position: center;
     box-shadow: 10px 0px 20px rgba(0, 0, 0, 0.1);
